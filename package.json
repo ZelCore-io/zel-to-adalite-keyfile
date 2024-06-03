@@ -1,0 +1,16 @@
+{
+  "name": "zel-to-adalite-keyfile",
+  "version": "1.0.0",
+  "description": "Script to convert Zelcore private key to adaLite key file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cardano-crypto.js": "^6.1.2",
+    "cbor": "^9.0.2"
+  }
+}
